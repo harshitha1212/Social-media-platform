@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: white;
+  }
+  
+  h1 {
+    margin: 0;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    color: #100606;
+  }
+  h3 {
+    margin-top: 20px;
+    color: #d43232;
+  }
+  
+  .post {
+    background-color: white;
+    padding: 50px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  #like1 {
+    padding: 10px 20px;
+    background-color: #a72855;
+    color: white;
+    border: none;
+    cursor: pointer;
+}  
+checkout-btn2{
+  padding: 10px 20px;
+  background-color: #59a2d3;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
